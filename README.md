@@ -1,2 +1,3 @@
 # apnacollege-demo
-tis is my  GIT repository
+This is my  GIT repository
+AUTHOR: MANAVI 
